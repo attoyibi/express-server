@@ -1,6 +1,6 @@
-# Repo Kode Express oleh Muhammad Muchson
+# Repo Kode Express
 
-Halo! Selamat datang di repository ini. Di sini, Anda akan menemukan berbagai kode yang berkaitan dengan pengembangan aplikasi web menggunakan framework Express.js. Semua kode dalam repository ini dibuat oleh Muhammad Muchson.
+Halo! Selamat datang di repository ini. Di sini, Anda akan menemukan berbagai kode yang berkaitan dengan pengembangan aplikasi web menggunakan framework Express.js.
 
 ## Tentang Kode
 
