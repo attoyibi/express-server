@@ -24,8 +24,4 @@ Kontribusi selalu dipersilakan! Jika Anda menemukan bug atau ingin menambahkan f
 
 Semua kode dalam repository ini dilisensikan di bawah [MIT License](LICENSE).
 
-## Kontak
-
-Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut tentang kode-kode di dalam repository ini, jangan ragu untuk menghubungi Muhammad Muchson di [email@example.com](mailto:email@example.com) atau melalui media sosial di [Twitter](https://twitter.com/muchson).
-
 Terima kasih telah mengunjungi repository ini!
