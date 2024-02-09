@@ -6,6 +6,9 @@ Ini adalah aplikasi server sederhana yang menyediakan fitur login dan registrasi
 
 Link doc :https://docs.google.com/document/d/1lXKt7FqT0uXtx-iHRCXAOOigvGl2I74oMwUgMSRCme4/edit?usp=sharing
 
+## Video Installation
+https://youtu.be/mgC188b4BXw
+
 ## Fitur
 
 - Registrasi pengguna baru dengan validasi username dan password.
